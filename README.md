@@ -1,8 +1,8 @@
-# Daimler Ads / MUSA Analytics | MobilityX Pitch Competition Spring 2018
+# Daimler Ads / MUSA Analytics
 
 ## Overview
 
-This is our submission to Daimler's Mobility X pitch competition. I created the artwork/wireframe and worked with my friend to determine the apps features and to write and deliver the pitch/presentation.
+This is our submission to the Mobility pitch competition (Spring 2018) sponsored by Capital Factory and Daimler. I created the artwork/wireframe and worked with my friend to determine the apps features and to write and deliver the pitch/presentation.
 
 Daimler Ads is a customer engagment platform that builds trust through transparency.
 
